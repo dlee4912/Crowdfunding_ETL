@@ -10,4 +10,5 @@ The crowdfunding_db_queries.sql file has base select queries for each table to p
 
 # Contributing
 Daniel Lee 3/23/23
+
 Audrey Fermanich 3/23/23
