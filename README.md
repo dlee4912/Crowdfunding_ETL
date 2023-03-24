@@ -1,6 +1,6 @@
 # Crowdfunding_ETL
 
-My partner was Audrey Fermanich and our code is slightly different from eachothers. Audrey's uses the pandas method for contacts whereas mine uses regex.
+My partner was Audrey Fermanich and our code is slightly different from eachothers. Audrey's uses the pandas method for contacts whereas mine uses regex. Audrey's file extracts are also put into a separate Data folder instead of dropping into the Resources folder.
 
 The ETL_Mini_Project_DLee.ipynb file is a Jupyter Notebook file that reads in the xlsx files in the Resources file, then splits them out to export the campaign, category, contacts, and subcategory csv.
 
